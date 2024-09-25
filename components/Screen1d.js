@@ -49,7 +49,7 @@ export default function Screen1d() {
       }}
       >
        <Image
-    source={require('../assets/iconFacebook')}
+    source={require('../assets/iconzalo')}
     style={styles.icon}
       />
       </TouchableOpacity
@@ -79,7 +79,7 @@ export default function Screen1d() {
       }}
        >
        <Image
-    source={require('../assets/iconFacebook')}
+    source={require('../assets/icongoogle')}
     style={styles.icon}
       />
       </TouchableOpacity
